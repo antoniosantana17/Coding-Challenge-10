@@ -1,1 +1,3 @@
 # Coding-Challenge-10
+
+The "Display Customer Purchase Orders with D3.js" project is a web application that dynamically loads and displays purchase order data from a CSV file using D3.js. Each purchase order is represented as a list item in an unordered list, detailing customer names, order IDs, and purchase amounts. The project demonstrates the ability to bind data, create HTML elements dynamically, and handle asynchronous data loading using D3.js. It serves as an example of how to effectively visualize and present data from external sources on a web page. 
